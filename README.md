@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/srespondek/portal-statistics-reporter.svg?branch=master)](https://travis-ci.com/srespondek/portal-statistics-reporter)
+
+
 **PortalStatisticsReporter**
 
 Application generates reports based on STEAM & IMDB portals.
